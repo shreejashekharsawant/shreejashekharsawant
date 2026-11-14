@@ -33,10 +33,6 @@ An AI-powered student assistant that uses document retrieval and LLMs to provide
 
 A multi-agent AI system designed to automate research workflows and reduce manual research effort.
 
-**Sports Turf Booking App**
-
-An Android application designed to simplify sports turf discovery and booking.
-
 ---
 
 ### 🎓 Education
